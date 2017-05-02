@@ -1,0 +1,9 @@
+#canvas{
+  border: 1px solid black;
+}
+input[type="text" i]{
+  width: 30px;
+}
+ #btn{
+   margin-top: 10px;
+ }
